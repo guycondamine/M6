@@ -1,0 +1,52 @@
+﻿<project version="2.1" name="6figures" ID="BFFCC158-8777-41D1-BA7B-D217AA64A590" addTime="2016-09-06">
+  <params>
+    <pageParam version="4.2" minAllowVersion="4.1"/>
+    <projectParam version="2.1" minAllowVersion="2.0" platform="MtCustom" pageSize="(1920,1080)" backgroundColor="4294967295" fontSize="0" fontFamily="" from="FmLocal"/>
+  </params>
+  <modules>
+    <page name="Home" ID="DED3F202-9EFA-4B6F-8337-50C8397012D3" expanded="True" code="wofckb2GTk" thumbCode="wofckb2GTk" status="psWhite" isLastOpen="True">
+      <images>
+        <image key="D5A4AB37330AE77F9BC52F548A1D487F.png"/>
+        <image key="BE56B7EB71EDBF2B36FB1FD851B42C43.png"/>
+        <image key="76CAB63D8185F0241FC86D103924C766.png"/>
+      </images>
+    </page>
+    <page name="Rate of News Incomes" ID="8F46A343-F08E-4A46-A83F-47FFA3733C70" expanded="True" code="UpLfxKMbub" thumbCode="UpLfxKMbub" status="psWhite">
+      <images>
+        <image key="7A07D19BC25A1F62858BD13D1EE337FA.png"/>
+        <image key="F7F1FF77C24FC9CF823C551877106740.png"/>
+        <image key="CFA9C393BEE077A0A41A28E503A4AED8.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Income of new services" ID="22C9C595-104C-43A9-AECA-11ACCDCEEA31" expanded="True" code="CpEQid3C9g" thumbCode="CpEQid3C9g" status="psWhite">
+      <images>
+        <image key="7F97F90692BEA3CC9B4A35918B1BA376.png"/>
+        <image key="F7F1FF77C24FC9CF823C551877106740.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Income of new partner" ID="4F4571C8-5436-443C-81F6-8A3046139852" expanded="True" code="aP59zXYeDg" thumbCode="aP59zXYeDg" status="psWhite">
+      <images>
+        <image key="631404F01BA59D77B05990523F99942D.png"/>
+        <image key="F7F1FF77C24FC9CF823C551877106740.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+  </modules>
+  <masters/>
+  <images>
+    <image key="D5A4AB37330AE77F9BC52F548A1D487F.png"/>
+    <image key="BE56B7EB71EDBF2B36FB1FD851B42C43.png"/>
+    <image key="76CAB63D8185F0241FC86D103924C766.png"/>
+    <image key="7A07D19BC25A1F62858BD13D1EE337FA.png"/>
+    <image key="F7F1FF77C24FC9CF823C551877106740.png"/>
+    <image key="CFA9C393BEE077A0A41A28E503A4AED8.png"/>
+    <image key="7F97F90692BEA3CC9B4A35918B1BA376.png"/>
+    <image key="631404F01BA59D77B05990523F99942D.png"/>
+    <image key="17CBDB88332FC89157A313844539E764.png"/>
+  </images>
+  <others>
+    <favoriteColors/>
+  </others>
+</project>
